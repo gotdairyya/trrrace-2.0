@@ -1,6 +1,7 @@
 # Audit Trail
 
-[View Audit Trail](http://vdl.sci.utah.edu/trrrace/)
+Forked from Jen's [Audit Trail](http://vdl.sci.utah.edu/trrrace/) April 22, 2021.
+
 
 ### Installation
 
